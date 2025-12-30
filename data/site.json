@@ -1,0 +1,183 @@
+{
+  "site": {
+    "name": "DICE Dental Academy",
+    "tagline": "Learn Locally. Practice Confidently. Qualify Globally.",
+    "description": "Pakistan's premier dental training institute offering advanced clinical training and international licensing exam preparation.",
+    "location": {
+      "address": "F-8 Markaz, Islamabad, Pakistan",
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3318.012345678901!2d73.05123456789012!3d33.71234567890123",
+      "coordinates": {
+        "lat": 33.712345,
+        "lng": 73.051234
+      }
+    },
+    "contact": {
+      "phone": "+92 51 1234567",
+      "mobile": "+92 300 1234567",
+      "whatsapp": "+923001234567",
+      "email": "info@dicedentalacademy.com",
+      "admissionsEmail": "admissions@dicedentalacademy.com"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/dicedentalacademy",
+      "instagram": "https://instagram.com/dicedentalacademy",
+      "linkedin": "https://linkedin.com/company/dice-dental-academy",
+      "youtube": "https://youtube.com/@dicedentalacademy",
+      "twitter": "https://twitter.com/dicedentalacad"
+    },
+    "officeHours": {
+      "weekdays": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+  "hero": {
+    "headline": "DICE Dental Academy",
+    "subheadline": "Shaping Skilled Dentists for Pakistan & the World",
+    "description": "Located in F-8 Markaz, Islamabad | Advanced Clinical & International Dental Training",
+    "ctaButtons": [
+      {
+        "text": "Explore Courses",
+        "link": "/courses",
+        "variant": "primary"
+      },
+      {
+        "text": "Apply Now",
+        "link": "/contact",
+        "variant": "secondary"
+      },
+      {
+        "text": "Book Counseling",
+        "link": "/contact",
+        "variant": "outline"
+      }
+    ],
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "backgroundImage": "/images/hero-background.jpg"
+  },
+  "about": {
+    "mission": "To provide comprehensive dental education combining clinical practice, academic excellence, and global exposure.",
+    "vision": "To prepare dentists for local excellence and international practice.",
+    "description": "DICE Dental Academy, located in F-8 Markaz, Islamabad, is a premier dental training institute dedicated to advancing dental education through hands-on learning, modern technology, and international collaboration.",
+    "whyChooseDice": [
+      {
+        "title": "Experienced Faculty",
+        "description": "Learn from highly qualified local and international dental experts with extensive clinical and teaching experience.",
+        "icon": "Users"
+      },
+      {
+        "title": "Hands-On Clinical Exposure",
+        "description": "Extensive practical training with mannequins and supervised patient care for real-world skill development.",
+        "icon": "Activity"
+      },
+      {
+        "title": "International Exam Preparation",
+        "description": "Comprehensive preparation for ORE, NDEB, Abu Dhabi DOH, and other international licensing examinations.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Modern Facilities",
+        "description": "State-of-the-art training labs equipped with latest dental technology and digital dentistry tools.",
+        "icon": "Award"
+      },
+      {
+        "title": "Flexible Schedules",
+        "description": "Weekend and evening batches available to accommodate practicing dentists.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Career Counseling",
+        "description": "One-on-one mentorship and guidance for career advancement and international opportunities.",
+        "icon": "TrendingUp"
+      }
+    ]
+  },
+  "statistics": [
+    {
+      "number": "500+",
+      "label": "Graduates",
+      "icon": "GraduationCap"
+    },
+    {
+      "number": "15+",
+      "label": "Years Experience",
+      "icon": "Award"
+    },
+    {
+      "number": "20+",
+      "label": "Expert Faculty",
+      "icon": "Users"
+    },
+    {
+      "number": "85%",
+      "label": "International Exam Success",
+      "icon": "TrendingUp"
+    }
+  ],
+  "facilities": [
+    {
+      "title": "Modern Training Labs",
+      "description": "Fully equipped dental labs with individual workstations and modern dental units.",
+      "image": "/images/facilities/training-lab.jpg"
+    },
+    {
+      "title": "Mannequin Practice Stations",
+      "description": "Dedicated mannequin heads for simulation practice and international exam preparation.",
+      "image": "/images/facilities/mannequin-station.jpg"
+    },
+    {
+      "title": "Clinical Setups",
+      "description": "Real clinical environments for supervised patient treatment under expert guidance.",
+      "image": "/images/facilities/clinical-setup.jpg"
+    },
+    {
+      "title": "Digital Dentistry Tools",
+      "description": "CAD/CAM systems, digital scanners, and AI-integrated diagnostic tools.",
+      "image": "/images/facilities/digital-tools.jpg"
+    },
+    {
+      "title": "Learning Resources",
+      "description": "Comprehensive library with digital access to journals, textbooks, and video tutorials.",
+      "image": "/images/facilities/library.jpg"
+    },
+    {
+      "title": "Comfortable Spaces",
+      "description": "Well-designed classrooms and break areas for optimal learning experience.",
+      "image": "/images/facilities/classroom.jpg"
+    }
+  ],
+  "studentSupport": [
+    {
+      "title": "Academic Counseling",
+      "description": "One-on-one academic guidance and personalized learning plans.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Practice Facilities",
+      "description": "Extended lab hours and equipment access for additional practice.",
+      "icon": "Tool"
+    },
+    {
+      "title": "Exam Mentoring",
+      "description": "Dedicated mentors for international licensing exam preparation.",
+      "icon": "Award"
+    },
+    {
+      "title": "Flexible Schedules",
+      "description": "Multiple batch timings to suit working professionals.",
+      "icon": "Calendar"
+    },
+    {
+      "title": "Learning Materials",
+      "description": "Comprehensive study materials, videos, and online resources.",
+      "icon": "Library"
+    },
+    {
+      "title": "Certification Support",
+      "description": "Assistance with documentation and credential verification.",
+      "icon": "FileCheck"
+    }
+  ]
+}

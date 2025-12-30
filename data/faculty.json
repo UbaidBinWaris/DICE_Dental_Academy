@@ -1,0 +1,157 @@
+{
+  "faculty": [
+    {
+      "id": "faculty-1",
+      "name": "Dr. Sarah Ahmed",
+      "title": "Director of Orthodontics",
+      "image": "/images/faculty/dr-sarah.jpg",
+      "specialization": "Orthodontics & Clear Aligners",
+      "qualifications": "BDS, MDS (Orthodontics), Fellowship in Clear Aligners",
+      "experience": "15+ years",
+      "bio": "Dr. Sarah Ahmed is a renowned orthodontist with extensive experience in fixed appliances and modern aligner therapy. She has trained over 500 dentists in orthodontic techniques and is a certified trainer for multiple aligner systems.",
+      "achievements": [
+        "Certified Clear Aligner Trainer",
+        "Published researcher in orthodontic journals",
+        "International speaker at dental conferences",
+        "Founder member of Pakistan Orthodontic Society"
+      ],
+      "courses": ["PG Diploma in Orthodontics", "Orthodontics & Clear Aligners"]
+    },
+    {
+      "id": "faculty-2",
+      "name": "Dr. Ayesha Khan",
+      "title": "Head of Aesthetic Dentistry",
+      "image": "/images/faculty/dr-ayesha.jpg",
+      "specialization": "Aesthetic & Cosmetic Dentistry",
+      "qualifications": "BDS, PG Dip Aesthetic Dentistry, HSA Certification",
+      "experience": "12+ years",
+      "bio": "Dr. Ayesha Khan specializes in smile design and aesthetic dentistry. Trained internationally with HSA, she brings world-class aesthetic protocols to Pakistan. Her expertise in veneers and smile makeovers is widely recognized.",
+      "achievements": [
+        "HSA Certified Master Clinician",
+        "Over 1000 veneer cases completed",
+        "Featured in dental aesthetic journals",
+        "International trainer for smile design"
+      ],
+      "courses": ["PG Diploma in Aesthetic Dentistry", "One-Year Aesthetic Program", "Veneers Masterclass"]
+    },
+    {
+      "id": "faculty-3",
+      "name": "Dr. Michael Chen",
+      "title": "International Visiting Faculty",
+      "image": "/images/faculty/dr-michael.jpg",
+      "specialization": "Digital Dentistry & AI Integration",
+      "qualifications": "DDS, MSc Digital Dentistry, AI Certification",
+      "experience": "20+ years",
+      "bio": "Dr. Michael Chen is an international expert in digital dentistry and AI integration. Based in Singapore, he visits DICE regularly to share cutting-edge digital workflows and future technologies in dentistry.",
+      "achievements": [
+        "Pioneer in AI dental diagnostics",
+        "TEDx speaker on dental technology",
+        "Author of 'Digital Dentistry Revolution'",
+        "Consultant to major dental tech companies"
+      ],
+      "courses": ["AI in Dentistry", "Digital Workflows"]
+    },
+    {
+      "id": "faculty-4",
+      "name": "Dr. Fatima Noor",
+      "title": "Senior Prosthodontist",
+      "image": "/images/faculty/dr-fatima.jpg",
+      "specialization": "Fixed & Removable Prosthodontics",
+      "qualifications": "BDS, FCPS (Prosthodontics)",
+      "experience": "18+ years",
+      "bio": "Dr. Fatima Noor is an accomplished prosthodontist with expertise in complex rehabilitation cases. Her patient-centered approach and meticulous attention to detail make her a favorite among students.",
+      "achievements": [
+        "FCPS Prosthodontics",
+        "Published author in prosthodontic journals",
+        "Expert in full mouth rehabilitation",
+        "Senior consultant at major hospitals"
+      ],
+      "courses": ["Crown & Bridge Excellence", "Removable Prosthodontics"]
+    },
+    {
+      "id": "faculty-5",
+      "name": "Dr. Robert Silva",
+      "title": "International Aesthetic Specialist",
+      "image": "/images/faculty/dr-robert.jpg",
+      "specialization": "Advanced Aesthetic Dentistry",
+      "qualifications": "DDS, Fellowship in Aesthetic Dentistry (USA)",
+      "experience": "16+ years",
+      "bio": "Dr. Robert Silva brings American aesthetic excellence to DICE. His mastery in full-mouth rehabilitation and complex aesthetic cases provides students with international-level insights.",
+      "achievements": [
+        "Featured in Aesthetic Dentistry Today",
+        "International lecturer and trainer",
+        "Developer of aesthetic protocols",
+        "Celebrity dentist with high-profile clientele"
+      ],
+      "courses": ["One-Year Aesthetic Program", "Crown & Bridge Excellence"]
+    },
+    {
+      "id": "faculty-6",
+      "name": "Dr. Ahmed Raza",
+      "title": "Endodontic Specialist",
+      "image": "/images/faculty/dr-ahmed-r.jpg",
+      "specialization": "Advanced Endodontics",
+      "qualifications": "BDS, MDS (Conservative & Endodontics)",
+      "experience": "10+ years",
+      "bio": "Dr. Ahmed Raza specializes in complex endodontic cases and modern rotary techniques. His clear teaching style and patient approach make difficult concepts easy to understand.",
+      "achievements": [
+        "Expert in rotary endodontics",
+        "Certified microscopic dentistry",
+        "Published researcher",
+        "Retreat specialist with high success rate"
+      ],
+      "courses": ["Advanced Endodontics"]
+    },
+    {
+      "id": "faculty-7",
+      "name": "Dr. James Wong",
+      "title": "Pediatric Dentistry Specialist",
+      "image": "/images/faculty/dr-james.jpg",
+      "specialization": "Pediatric Dentistry & Interceptive Orthodontics",
+      "qualifications": "DDS, MSc Pediatric Dentistry",
+      "experience": "14+ years",
+      "bio": "Dr. James Wong is an expert in pediatric dentistry and early orthodontic intervention. His gentle approach with children and expertise in growth modification make him invaluable to the DICE team.",
+      "achievements": [
+        "Pediatric dentistry certification",
+        "Expert in behavior management",
+        "Published author on child dental care",
+        "International trainer for interceptive orthodontics"
+      ],
+      "courses": ["PG Diploma in Interceptive Orthodontics"]
+    }
+  ],
+  "collaborations": [
+    {
+      "id": "collab-1",
+      "name": "HSA - Hollywood Smile Academy",
+      "logo": "/images/collaborations/hsa-logo.png",
+      "country": "International",
+      "description": "Partnership for advanced aesthetic dentistry training with international certification.",
+      "website": "https://hollywoodsmileacademy.com"
+    },
+    {
+      "id": "collab-2",
+      "name": "ORE Prep International",
+      "logo": "/images/collaborations/ore-prep.png",
+      "country": "United Kingdom",
+      "description": "Specialized training and resources for UK dental licensing examinations.",
+      "website": null
+    },
+    {
+      "id": "collab-3",
+      "name": "Canadian Dental Licensing Board",
+      "logo": "/images/collaborations/canada-dental.png",
+      "country": "Canada",
+      "description": "Preparation support for Canadian dental licensing pathways.",
+      "website": null
+    },
+    {
+      "id": "collab-4",
+      "name": "DOH Abu Dhabi",
+      "logo": "/images/collaborations/doh-abudhabi.png",
+      "country": "United Arab Emirates",
+      "description": "Training aligned with Abu Dhabi Department of Health licensing requirements.",
+      "website": null
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "pgDiplomas": [
+    {
+      "id": "pg-orthodontics",
+      "title": "PG Diploma in Orthodontics",
+      "slug": "pg-orthodontics",
+      "shortDescription": "Master the art and science of orthodontics with comprehensive hands-on training.",
+      "duration": "12 months",
+      "eligibility": "BDS or equivalent dental degree",
+      "category": "Postgraduate Diploma",
+      "featured": true,
+      "image": "/images/courses/orthodontics.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 450,000",
+      "overview": "Our PG Diploma in Orthodontics offers comprehensive training in diagnosis, treatment planning, and clinical management of malocclusions. Gain hands-on experience with fixed appliances, removable appliances, and modern aligner therapy.",
+      "highlights": [
+        "Comprehensive orthodontic diagnosis and treatment planning",
+        "Fixed and removable appliance therapy",
+        "Modern aligner technology (Clear aligners)",
+        "Cephalometric analysis and interpretation",
+        "Growth and development assessment",
+        "Retention protocols and relapse management",
+        "Practice management and patient communication"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1: Fundamentals",
+          "topics": ["Orthodontic Diagnosis", "Cephalometric Analysis", "Growth & Development"]
+        },
+        {
+          "module": "Module 2: Treatment Planning",
+          "topics": ["Case Selection", "Treatment Mechanics", "Biomechanics"]
+        },
+        {
+          "module": "Module 3: Clinical Practice",
+          "topics": ["Fixed Appliances", "Aligner Therapy", "Retention"]
+        }
+      ],
+      "faculty": ["Dr. Sarah Ahmed", "Dr. Michael Chen"],
+      "certification": "PG Diploma in Orthodontics - DICE Dental Academy"
+    },
+    {
+      "id": "pg-aesthetic",
+      "title": "PG Diploma in Aesthetic Dentistry",
+      "slug": "pg-aesthetic",
+      "shortDescription": "Transform smiles with advanced cosmetic dentistry techniques and digital workflows.",
+      "duration": "10 months",
+      "eligibility": "BDS or equivalent dental degree",
+      "category": "Postgraduate Diploma",
+      "featured": true,
+      "image": "/images/courses/aesthetic.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 400,000",
+      "overview": "Elevate your practice with our comprehensive aesthetic dentistry program. Learn smile design principles, veneer preparation, advanced composite techniques, and digital dentistry integration.",
+      "highlights": [
+        "Smile design and facial aesthetics",
+        "Porcelain veneers and laminates",
+        "Advanced composite bonding",
+        "Tooth whitening protocols",
+        "Digital smile design (DSD)",
+        "Minimally invasive techniques",
+        "Photography and case documentation"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1: Aesthetic Principles",
+          "topics": ["Smile Design", "Color Science", "Facial Aesthetics"]
+        },
+        {
+          "module": "Module 2: Clinical Techniques",
+          "topics": ["Veneers", "Composite Bonding", "Whitening"]
+        },
+        {
+          "module": "Module 3: Digital Integration",
+          "topics": ["Digital Smile Design", "CAD/CAM", "Photography"]
+        }
+      ],
+      "faculty": ["Dr. Ayesha Khan", "Dr. Robert Silva"],
+      "certification": "PG Diploma in Aesthetic Dentistry - DICE Dental Academy"
+    },
+    {
+      "id": "pg-interceptive",
+      "title": "PG Diploma in Interceptive Orthodontics",
+      "slug": "pg-interceptive",
+      "shortDescription": "Early intervention strategies for developing dentition and growing patients.",
+      "duration": "8 months",
+      "eligibility": "BDS or equivalent dental degree",
+      "category": "Postgraduate Diploma",
+      "featured": true,
+      "image": "/images/courses/interceptive.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 350,000",
+      "overview": "Specialize in early orthodontic intervention for children and adolescents. Learn to identify and correct developing malocclusions before they become severe.",
+      "highlights": [
+        "Early diagnosis of malocclusions",
+        "Growth modification techniques",
+        "Space maintenance and management",
+        "Habit breaking appliances",
+        "Functional appliances",
+        "Mixed dentition treatment",
+        "Parent counseling and compliance"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1: Growth & Development",
+          "topics": ["Craniofacial Growth", "Dentition Development", "Assessment"]
+        },
+        {
+          "module": "Module 2: Interceptive Techniques",
+          "topics": ["Space Maintainers", "Habit Breakers", "Functional Appliances"]
+        },
+        {
+          "module": "Module 3: Clinical Management",
+          "topics": ["Case Selection", "Timing", "Parent Communication"]
+        }
+      ],
+      "faculty": ["Dr. Fatima Noor", "Dr. James Wong"],
+      "certification": "PG Diploma in Interceptive Orthodontics - DICE Dental Academy"
+    }
+  ],
+  "specializedPrograms": [
+    {
+      "id": "aesthetic-program-hsa",
+      "title": "One-Year Aesthetic Dentistry Program (HSA Collaboration)",
+      "slug": "aesthetic-program",
+      "shortDescription": "Intensive aesthetic dentistry training in collaboration with HSA - Advanced smile design and digital dentistry.",
+      "duration": "12 months",
+      "eligibility": "BDS with 1+ year clinical experience",
+      "category": "Specialized Program",
+      "featured": true,
+      "image": "/images/courses/hsa-aesthetic.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 650,000",
+      "collaboration": "HSA (Hollywood Smile Academy)",
+      "overview": "Premium one-year program in partnership with HSA, focusing on advanced smile design, veneers, crown & bridge, and digital dentistry integration. Gain international-level expertise with hands-on training and mentorship from world-class faculty.",
+      "highlights": [
+        "HSA certification and international recognition",
+        "Advanced smile design and facial aesthetics",
+        "Comprehensive veneer techniques",
+        "Full-mouth rehabilitation",
+        "Digital workflows and CAD/CAM",
+        "Implant aesthetics",
+        "Business and marketing for aesthetic practice",
+        "International faculty and guest speakers"
+      ],
+      "curriculum": [
+        {
+          "module": "Quarter 1: Foundation",
+          "topics": ["Aesthetic Principles", "Smile Analysis", "Digital Photography"]
+        },
+        {
+          "module": "Quarter 2: Veneers Mastery",
+          "topics": ["Preparation Techniques", "Bonding Protocols", "Material Selection"]
+        },
+        {
+          "module": "Quarter 3: Complex Cases",
+          "topics": ["Crown & Bridge", "Full Mouth Rehab", "Implant Aesthetics"]
+        },
+        {
+          "module": "Quarter 4: Digital & Business",
+          "topics": ["Digital Workflows", "Practice Management", "Marketing"]
+        }
+      ],
+      "faculty": ["Dr. HSA International Faculty", "Dr. Ayesha Khan", "Dr. Michael Chen"],
+      "certification": "Advanced Aesthetic Dentistry Certificate - HSA & DICE"
+    }
+  ],
+  "shortCourses": [
+    {
+      "id": "orthodontics-aligners",
+      "title": "Orthodontics & Clear Aligners",
+      "slug": "orthodontics-aligners",
+      "shortDescription": "Master modern aligner therapy and digital orthodontics.",
+      "duration": "3 months",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": false,
+      "image": "/images/courses/aligners.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 150,000",
+      "overview": "Learn clear aligner therapy from case selection to treatment delivery. Includes digital treatment planning and integration with popular aligner systems.",
+      "highlights": [
+        "Digital treatment planning",
+        "Case selection and assessment",
+        "Attachment protocols",
+        "IPR techniques",
+        "Refinement and finishing",
+        "Integration with aligner brands"
+      ],
+      "faculty": ["Dr. Sarah Ahmed"],
+      "certification": "Clear Aligner Therapy Certificate - DICE"
+    },
+    {
+      "id": "endodontics",
+      "title": "Advanced Endodontics",
+      "slug": "endodontics",
+      "shortDescription": "Modern root canal techniques and retreatment protocols.",
+      "duration": "2 months",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": false,
+      "image": "/images/courses/endodontics.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 120,000",
+      "overview": "Advanced endodontic techniques including rotary instrumentation, obturation methods, and retreatment strategies.",
+      "highlights": [
+        "Rotary endodontics",
+        "Single visit endodontics",
+        "Retreatment protocols",
+        "Managing calcified canals",
+        "Surgical endodontics basics",
+        "Pain management"
+      ],
+      "faculty": ["Dr. Ahmed Raza"],
+      "certification": "Advanced Endodontics Certificate - DICE"
+    },
+    {
+      "id": "veneers-masterclass",
+      "title": "Veneers Masterclass",
+      "slug": "veneers",
+      "shortDescription": "Perfect your veneer preparation and bonding techniques.",
+      "duration": "1 month",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": false,
+      "image": "/images/courses/veneers.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 80,000",
+      "overview": "Intensive hands-on training in porcelain veneers - from preparation to final bonding.",
+      "highlights": [
+        "Preparation techniques",
+        "Provisional fabrication",
+        "Color selection",
+        "Bonding protocols",
+        "Try-in procedures",
+        "Troubleshooting common issues"
+      ],
+      "faculty": ["Dr. Ayesha Khan"],
+      "certification": "Veneers Masterclass Certificate - DICE"
+    },
+    {
+      "id": "crown-bridge",
+      "title": "Crown & Bridge Excellence",
+      "slug": "crown-bridge",
+      "shortDescription": "Comprehensive fixed prosthodontics training.",
+      "duration": "3 months",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": false,
+      "image": "/images/courses/crown-bridge.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 160,000",
+      "overview": "Complete training in crown and bridge prosthodontics with modern materials and techniques.",
+      "highlights": [
+        "Tooth preparation principles",
+        "Impression techniques",
+        "Provisional restorations",
+        "Cementation protocols",
+        "All-ceramic systems",
+        "Complex bridge designs"
+      ],
+      "faculty": ["Dr. Robert Silva", "Dr. Fatima Noor"],
+      "certification": "Crown & Bridge Certificate - DICE"
+    },
+    {
+      "id": "prosthodontics",
+      "title": "Removable Prosthodontics",
+      "slug": "prosthodontics",
+      "shortDescription": "Complete and partial denture fabrication and management.",
+      "duration": "2 months",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": false,
+      "image": "/images/courses/prosthodontics.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 100,000",
+      "overview": "Comprehensive removable prosthodontics covering complete dentures, partial dentures, and immediate dentures.",
+      "highlights": [
+        "Complete denture fabrication",
+        "Partial denture design",
+        "Immediate dentures",
+        "Denture adjustments",
+        "Implant-supported overdentures",
+        "Patient communication"
+      ],
+      "faculty": ["Dr. James Wong"],
+      "certification": "Removable Prosthodontics Certificate - DICE"
+    },
+    {
+      "id": "ai-dentistry",
+      "title": "AI in Dentistry",
+      "slug": "ai-dentistry",
+      "shortDescription": "Digital workflows, AI diagnostics, and the future of dentistry.",
+      "duration": "1 month",
+      "eligibility": "BDS or equivalent",
+      "category": "Short Course",
+      "featured": true,
+      "image": "/images/courses/ai-dentistry.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "price": "PKR 75,000",
+      "overview": "Explore the cutting-edge intersection of artificial intelligence and dentistry. Learn AI-powered diagnostics, digital workflows, and future technologies.",
+      "highlights": [
+        "AI-powered diagnosis tools",
+        "Digital imaging and analysis",
+        "Treatment planning software",
+        "Practice management AI",
+        "Predictive analytics",
+        "Future trends in dental technology"
+      ],
+      "faculty": ["Dr. Tech Expert", "Dr. Michael Chen"],
+      "certification": "AI in Dentistry Certificate - DICE"
+    }
+  ]
+}

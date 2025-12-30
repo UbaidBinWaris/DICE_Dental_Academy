@@ -1,0 +1,100 @@
+{
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Dr. Zainab Hassan",
+      "program": "PG Diploma in Orthodontics",
+      "year": "2024",
+      "image": "/images/testimonials/dr-zainab.jpg",
+      "rating": 5,
+      "location": "Lahore, Pakistan",
+      "achievement": "Passed ORE Part 2 - Now practicing in London",
+      "quote": "DICE Dental Academy transformed my career. The hands-on training and expert faculty prepared me perfectly for the ORE exams. I'm now practicing in London and couldn't be happier!",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "test-2",
+      "name": "Dr. Ahmed Malik",
+      "program": "One-Year Aesthetic Dentistry (HSA)",
+      "year": "2023",
+      "image": "/images/testimonials/dr-ahmed.jpg",
+      "rating": 5,
+      "location": "Islamabad, Pakistan",
+      "achievement": "Established successful aesthetic practice",
+      "quote": "The HSA collaboration program gave me international-level training. My veneer cases have improved dramatically, and my practice has grown 300% in just 6 months!",
+      "videoUrl": null
+    },
+    {
+      "id": "test-3",
+      "name": "Dr. Sarah Iqbal",
+      "program": "Clear Aligners Course",
+      "year": "2024",
+      "image": "/images/testimonials/dr-sarah.jpg",
+      "rating": 5,
+      "location": "Karachi, Pakistan",
+      "achievement": "Started aligner practice successfully",
+      "quote": "The aligner course was exactly what I needed. Practical, hands-on, and immediately applicable. I started treating aligner cases within a week of finishing the course!",
+      "videoUrl": null
+    },
+    {
+      "id": "test-4",
+      "name": "Dr. Muhammad Usman",
+      "program": "PG Diploma in Aesthetic Dentistry",
+      "year": "2023",
+      "image": "/images/testimonials/dr-usman.jpg",
+      "rating": 5,
+      "location": "Rawalpindi, Pakistan",
+      "achievement": "Cleared Abu Dhabi Licensing Exam",
+      "quote": "The comprehensive training at DICE prepared me for both clinical excellence and international licensing. I passed the Abu Dhabi exam on my first attempt!",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "test-5",
+      "name": "Dr. Ayesha Farooq",
+      "program": "Veneers Masterclass",
+      "year": "2024",
+      "image": "/images/testimonials/dr-ayesha-f.jpg",
+      "rating": 5,
+      "location": "Faisalabad, Pakistan",
+      "achievement": "Transformed smile design practice",
+      "quote": "The veneer masterclass changed my approach to aesthetic dentistry. The hands-on training and expert guidance were invaluable. Highly recommended!",
+      "videoUrl": null
+    },
+    {
+      "id": "test-6",
+      "name": "Dr. Hassan Ali",
+      "program": "Crown & Bridge Excellence",
+      "year": "2024",
+      "image": "/images/testimonials/dr-hassan.jpg",
+      "rating": 5,
+      "location": "Multan, Pakistan",
+      "achievement": "Expanded prosthodontic services",
+      "quote": "Excellent faculty, modern facilities, and practical training. DICE gave me the confidence to handle complex crown and bridge cases with ease.",
+      "videoUrl": null
+    },
+    {
+      "id": "test-7",
+      "name": "Dr. Fatima Zahra",
+      "program": "PG Diploma in Interceptive Orthodontics",
+      "year": "2023",
+      "image": "/images/testimonials/dr-fatima-z.jpg",
+      "rating": 5,
+      "location": "Peshawar, Pakistan",
+      "achievement": "Specializing in pediatric orthodontics",
+      "quote": "The interceptive orthodontics program opened up a whole new dimension in my practice. I now confidently treat young patients and prevent severe malocclusions.",
+      "videoUrl": null
+    },
+    {
+      "id": "test-8",
+      "name": "Dr. Bilal Ahmed",
+      "program": "Advanced Endodontics",
+      "year": "2024",
+      "image": "/images/testimonials/dr-bilal.jpg",
+      "rating": 5,
+      "location": "Islamabad, Pakistan",
+      "achievement": "Improved root canal success rate",
+      "quote": "The modern techniques and rotary systems taught at DICE have significantly improved my endodontic outcomes. Best investment in my continuing education!",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "faqCategories": [
+    {
+      "category": "General Admissions",
+      "faqs": [
+        {
+          "question": "What are the eligibility criteria for PG Diploma programs?",
+          "answer": "Applicants must hold a BDS degree or equivalent from a recognized dental college. Some programs may require minimum clinical experience. International graduates are welcome to apply with credential verification."
+        },
+        {
+          "question": "How do I apply for courses at DICE Dental Academy?",
+          "answer": "You can apply online through our website registration form, visit our campus at F-8 Markaz, Islamabad, or contact us via phone/WhatsApp. Our admissions team will guide you through the process and required documentation."
+        },
+        {
+          "question": "When do courses start?",
+          "answer": "We have multiple intakes throughout the year. PG Diploma programs typically start in January, April, and September. Short courses have rolling admissions with new batches starting monthly. Contact our admissions office for specific dates."
+        },
+        {
+          "question": "Is there an entrance exam?",
+          "answer": "For PG Diploma programs, we conduct an aptitude assessment and personal interview. Short courses do not require an entrance exam. International licensing preparation programs may have baseline assessments."
+        }
+      ]
+    },
+    {
+      "category": "Courses & Programs",
+      "faqs": [
+        {
+          "question": "What is the difference between PG Diploma and short courses?",
+          "answer": "PG Diploma programs are comprehensive 8-12 month programs offering in-depth training in a specialty with full certification. Short courses are 1-3 month intensive programs focusing on specific skills or techniques, ideal for practicing dentists seeking to add new services."
+        },
+        {
+          "question": "Are the courses recognized internationally?",
+          "answer": "DICE certifications are recognized for continuing dental education (CDE) credits. Our One-Year Aesthetic Program with HSA provides international certification. For professional registration abroad, additional licensing exams (ORE, NDEB, etc.) are required, which we help you prepare for."
+        },
+        {
+          "question": "Can I attend courses part-time while practicing?",
+          "answer": "Yes! We offer flexible schedules including weekend batches and evening sessions for most short courses. PG Diploma programs have both full-time and part-time options. We understand you need to maintain your practice."
+        },
+        {
+          "question": "What is the class size?",
+          "answer": "We maintain small class sizes (typically 8-15 students) to ensure personalized attention, adequate hands-on practice time, and quality faculty interaction."
+        }
+      ]
+    },
+    {
+      "category": "International Licensing",
+      "faqs": [
+        {
+          "question": "How long does it take to prepare for ORE exams?",
+          "answer": "Most students require 6-12 months to prepare for ORE Part 1 and additional 6-8 months for Part 2. Total preparation time is typically 12-18 months depending on your baseline knowledge and practice availability."
+        },
+        {
+          "question": "Do you provide mannequin practice for international exams?",
+          "answer": "Absolutely! We have dedicated mannequin stations specifically for ORE Part 2, Abu Dhabi clinical exams, and other international practical assessments. You'll get extensive hands-on practice under examination conditions."
+        },
+        {
+          "question": "What is your success rate for international licensing exams?",
+          "answer": "Our students have achieved 85% success rate for ORE, 90% for Abu Dhabi DOH, and 75% for Canadian NDEB equivalency process. We provide comprehensive preparation and continuous mentoring throughout your journey."
+        },
+        {
+          "question": "Can you help with the application process for international licensing?",
+          "answer": "Yes, we provide guidance on the complete process including credential verification, exam registration, visa requirements, and study planning. Our international exam counselors have firsthand experience with these pathways."
+        }
+      ]
+    },
+    {
+      "category": "Fees & Payment",
+      "faqs": [
+        {
+          "question": "What are the course fees?",
+          "answer": "Course fees vary by program: Short courses range from PKR 75,000 to PKR 160,000. PG Diplomas range from PKR 350,000 to PKR 450,000. The One-Year Aesthetic Program (HSA) is PKR 650,000. Detailed fee structures are provided during counseling."
+        },
+        {
+          "question": "Do you offer installment plans?",
+          "answer": "Yes, we offer flexible payment plans for all PG Diploma and specialized programs. Payments can be split into 2-4 installments depending on the course duration. Contact our admissions office for customized payment arrangements."
+        },
+        {
+          "question": "Are there any scholarships available?",
+          "answer": "We offer merit-based scholarships for exceptional candidates and need-based financial assistance. Early bird discounts are available for upfront payments. Group registrations (3+ students) also receive special rates."
+        },
+        {
+          "question": "What is included in the course fee?",
+          "answer": "Course fees include all study materials, mannequin practice time, faculty sessions, clinical supervision, and certification. Lab fees for materials and certain consumables may apply separately for hands-on courses."
+        }
+      ]
+    },
+    {
+      "category": "Facilities & Learning",
+      "faqs": [
+        {
+          "question": "What facilities are available for practice?",
+          "answer": "DICE offers fully equipped training labs with modern dental units, mannequin heads for simulation practice, digital dentistry tools, rotary endodontic equipment, and dedicated areas for different specialties. All students get adequate practice time."
+        },
+        {
+          "question": "Do you provide clinical patient exposure?",
+          "answer": "Yes, PG Diploma programs include supervised clinical patient exposure where you'll treat real patients under expert faculty guidance. Short courses primarily focus on mannequin training with optional patient case observations."
+        },
+        {
+          "question": "Are study materials provided?",
+          "answer": "Comprehensive study materials including printed handouts, digital resources, video tutorials, and access to online learning portals are provided for all programs. International exam courses include question banks and mock exam materials."
+        },
+        {
+          "question": "Can I access facilities for practice after course hours?",
+          "answer": "Enrolled students can book additional practice time on mannequins and equipment. We offer extended lab hours and weekend access for serious learners who want extra practice time."
+        }
+      ]
+    },
+    {
+      "category": "Career & Certification",
+      "faqs": [
+        {
+          "question": "Will I receive a certificate upon completion?",
+          "answer": "Yes, all students who successfully complete the program receive an official certificate from DICE Dental Academy. PG Diploma graduates receive a comprehensive diploma certificate. HSA collaborative program provides dual certification."
+        },
+        {
+          "question": "How will these courses help my practice?",
+          "answer": "Our courses are designed to immediately enhance your clinical skills and expand your service offerings. Graduates typically see significant practice growth through new procedures, increased patient confidence, and improved clinical outcomes."
+        },
+        {
+          "question": "Do you provide career counseling?",
+          "answer": "Absolutely! We offer one-on-one career counseling, guidance on international pathways, practice management advice, and mentorship throughout and after your course. Our alumni network also provides valuable connections."
+        },
+        {
+          "question": "Can I connect with alumni?",
+          "answer": "Yes, we have an active DICE alumni network with regular meetups, continued learning sessions, and professional networking opportunities. Alumni also get priority access to advanced courses and refresher programs."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "internationalLicensing": [
+    {
+      "id": "ore-uk",
+      "country": "United Kingdom",
+      "examName": "ORE (Overseas Registration Examination)",
+      "parts": ["Part 1", "Part 2"],
+      "image": "/images/licensing/uk-flag.jpg",
+      "icon": "🇬🇧",
+      "difficulty": "High",
+      "duration": "12-18 months preparation",
+      "overview": "The Overseas Registration Examination (ORE) is required for international dentists to practice in the UK. DICE provides comprehensive preparation for both Part 1 (theory) and Part 2 (practical) examinations.",
+      "examStructure": {
+        "part1": {
+          "name": "Part 1 - Written Examination",
+          "format": "Multiple choice questions",
+          "sections": [
+            "Principles of Patient Assessment",
+            "Principles of Oral & Maxillofacial Surgery",
+            "Principles of Periodontology",
+            "Principles of Endodontics",
+            "Principles of Restorative Dentistry",
+            "Principles of Prosthodontics",
+            "Principles of Orthodontics",
+            "Principles of Paediatric Dentistry",
+            "Applied Dental Science"
+          ],
+          "duration": "4 hours",
+          "passingScore": "Competency-based"
+        },
+        "part2": {
+          "name": "Part 2 - Practical Examination",
+          "format": "OSCE style stations",
+          "stations": 16,
+          "skills": [
+            "Patient examination",
+            "Treatment planning",
+            "Operative procedures on mannequins",
+            "Radiograph interpretation",
+            "Medical emergencies",
+            "Communication skills",
+            "Professional behavior"
+          ],
+          "duration": "Full day examination",
+          "passingScore": "Competency-based"
+        }
+      },
+      "dicePreparation": [
+        "Comprehensive study materials aligned with GDC standards",
+        "Mock examinations (both Part 1 and Part 2)",
+        "Mannequin-based practical training for Part 2",
+        "OSCE station practice with feedback",
+        "Radiograph interpretation sessions",
+        "Communication skills training",
+        "Regular progress assessments",
+        "One-on-one mentoring"
+      ],
+      "requirements": [
+        "BDS or equivalent dental degree",
+        "Proof of identity",
+        "Professional indemnity",
+        "English language proficiency (IELTS Academic)",
+        "Good standing certificate from Pakistan Dental Council"
+      ],
+      "careerPath": "Upon passing ORE Part 2, register with GDC and practice as a dentist in the UK",
+      "estimatedCost": "Exam fees + preparation course",
+      "successRate": "85% (DICE students)",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "abudhabi-doh",
+      "country": "United Arab Emirates",
+      "examName": "Abu Dhabi DOH Licensing Examination",
+      "parts": ["Written Exam", "Clinical Exam"],
+      "image": "/images/licensing/uae-flag.jpg",
+      "icon": "🇦🇪",
+      "difficulty": "Medium-High",
+      "duration": "6-12 months preparation",
+      "overview": "The Abu Dhabi Department of Health (DOH) licensing exam is required for dentists wishing to practice in Abu Dhabi. DICE offers targeted preparation for both written and practical components.",
+      "examStructure": {
+        "written": {
+          "name": "Written Examination",
+          "format": "MCQs and case-based questions",
+          "subjects": [
+            "General Dentistry",
+            "Oral Medicine",
+            "Oral Surgery",
+            "Periodontology",
+            "Endodontics",
+            "Prosthodontics",
+            "Orthodontics",
+            "Pediatric Dentistry"
+          ],
+          "duration": "3 hours",
+          "passingScore": "70%"
+        },
+        "clinical": {
+          "name": "Clinical Examination",
+          "format": "Practical demonstration",
+          "components": [
+            "Patient examination",
+            "Diagnosis and treatment planning",
+            "Clinical procedures",
+            "Infection control",
+            "Medical emergencies"
+          ],
+          "duration": "Half day",
+          "passingScore": "Competency-based"
+        }
+      },
+      "dicePreparation": [
+        "DOH-specific study materials",
+        "Practice question banks",
+        "Clinical skills training",
+        "Mock written exams",
+        "Practical clinical sessions",
+        "Case-based learning",
+        "Regular assessments"
+      ],
+      "requirements": [
+        "BDS degree from recognized university",
+        "Dataflow verification",
+        "Good standing certificate",
+        "Passport and Emirates ID"
+      ],
+      "careerPath": "Practice as licensed dentist in Abu Dhabi with excellent salary packages",
+      "estimatedCost": "Exam fees + preparation course",
+      "successRate": "90% (DICE students)",
+      "videoUrl": null
+    },
+    {
+      "id": "canada-ndeb",
+      "country": "Canada",
+      "examName": "NDEB Equivalency Process",
+      "parts": ["Assessment of Fundamental Knowledge", "Assessment of Clinical Skills"],
+      "image": "/images/licensing/canada-flag.jpg",
+      "icon": "🇨🇦",
+      "difficulty": "High",
+      "duration": "18-24 months preparation",
+      "overview": "The National Dental Examining Board (NDEB) Equivalency Process is for internationally trained dentists. DICE provides comprehensive preparation including written and clinical components.",
+      "examStructure": {
+        "written": {
+          "name": "Assessment of Fundamental Knowledge (AFK)",
+          "format": "Computer-based examination",
+          "sections": [
+            "Biomedical Sciences",
+            "Oral Health Sciences",
+            "Clinical Sciences"
+          ],
+          "duration": "3.5 hours",
+          "questions": 200,
+          "passingScore": "Standard setting"
+        },
+        "clinical": {
+          "name": "Assessment of Clinical Skills (ACS)",
+          "format": "OSCE-style",
+          "components": [
+            "Communication",
+            "History taking",
+            "Clinical examination",
+            "Diagnosis",
+            "Treatment planning",
+            "Operative procedures"
+          ],
+          "stations": 12,
+          "duration": "Full day"
+        }
+      },
+      "dicePreparation": [
+        "NDEB-aligned curriculum",
+        "Comprehensive study materials",
+        "Mock AFK examinations",
+        "OSCE practice stations",
+        "Clinical skills laboratories",
+        "One-on-one coaching",
+        "Progress tracking"
+      ],
+      "requirements": [
+        "BDS or equivalent",
+        "Credential verification",
+        "Language proficiency",
+        "Good standing certificate"
+      ],
+      "careerPath": "Practice dentistry across Canada with one of the world's best healthcare systems",
+      "estimatedCost": "Exam fees + preparation course",
+      "successRate": "75% (DICE students)",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "usa-pathways",
+      "country": "United States",
+      "examName": "US Dental Licensing Pathways",
+      "parts": ["NBDE/INBDE", "Clinical Boards"],
+      "image": "/images/licensing/usa-flag.jpg",
+      "icon": "🇺🇸",
+      "difficulty": "Very High",
+      "duration": "2-3 years (including advanced standing programs)",
+      "overview": "Pathways to practice in the USA include advanced standing programs and licensing examinations. DICE provides foundational preparation and guidance on the best pathway.",
+      "examStructure": {
+        "written": {
+          "name": "INBDE (Integrated National Board Dental Examination)",
+          "format": "Computer-based",
+          "coverage": [
+            "Biomedical sciences",
+            "Dental anatomy",
+            "Clinical sciences",
+            "Patient care"
+          ],
+          "duration": "2 days",
+          "questions": "400+"
+        },
+        "clinical": {
+          "name": "State/Regional Clinical Boards",
+          "format": "Live patient examination",
+          "varies": "By state (WREB, CRDTS, SRTA, etc.)",
+          "components": [
+            "Patient examination",
+            "Restorative procedures",
+            "Periodontal procedures",
+            "Endodontic procedures"
+          ]
+        }
+      },
+      "dicePreparation": [
+        "INBDE foundational preparation",
+        "Clinical skills training",
+        "Advanced standing program guidance",
+        "University application support",
+        "Interview preparation",
+        "Study planning"
+      ],
+      "requirements": [
+        "BDS degree",
+        "Transcript evaluation",
+        "TOEFL",
+        "Acceptance to advanced standing program (typically required)"
+      ],
+      "careerPath": "Advanced standing programs (2-3 years) leading to DDS/DMD and US licensure",
+      "estimatedCost": "Advanced standing program tuition + exam fees",
+      "successRate": "Varies by program",
+      "videoUrl": null
+    },
+    {
+      "id": "bde-preparation",
+      "country": "Various",
+      "examName": "BDE (Basic Dental Examination) Preparation",
+      "parts": ["Theory", "Practical"],
+      "image": "/images/licensing/international.jpg",
+      "icon": "🌍",
+      "difficulty": "Medium",
+      "duration": "3-6 months preparation",
+      "overview": "Basic Dental Examination preparation for various international licensing pathways. DICE provides comprehensive foundational training.",
+      "examStructure": {
+        "theory": {
+          "name": "Theoretical Component",
+          "subjects": [
+            "General Dentistry",
+            "Oral Pathology",
+            "Oral Medicine",
+            "All dental specialties"
+          ]
+        },
+        "practical": {
+          "name": "Practical Component",
+          "components": [
+            "Clinical examination skills",
+            "Basic dental procedures",
+            "Diagnosis and treatment planning"
+          ]
+        }
+      },
+      "dicePreparation": [
+        "Comprehensive study materials",
+        "Mock examinations",
+        "Clinical training",
+        "Hands-on practice"
+      ],
+      "requirements": [
+        "BDS or equivalent dental degree"
+      ],
+      "careerPath": "Gateway to various international licensing pathways",
+      "estimatedCost": "Preparation course fees",
+      "successRate": "95% (DICE students)",
+      "videoUrl": null
+    }
+  ]
+}
